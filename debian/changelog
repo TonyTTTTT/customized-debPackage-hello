@@ -1,3 +1,17 @@
+hello (2.10+3tony2) focal; urgency=low
+
+  * fix wrong header in postinst and testing.sh
+
+ -- tonyttttt <r09922176@csie.ntu.edu.tw>  Sat, 29 Jun 2024 16:40:47 +0800
+
+hello (2.10+3tony1) focal; urgency=low
+
+  * This is a take home work which
+  - add a postinst script for doing command when installing
+  - install a new shell script along the package installation
+
+ -- tonyttttt <r09922176@csie.ntu.edu.tw>  Sat, 29 Jun 2024 14:04:35 +0800
+
 hello (2.10-3build2) oracular; urgency=medium
 
   * No-change rebuild to bump version in oracular.
