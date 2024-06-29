@@ -2,6 +2,6 @@
 
 set -e
 
-echo "this is a testi for Yung-Lin Tsou, testing.sh" &> 2
+echo "this is a test from Yung-Lin Tsou, testing.sh" &> 2
 
 exit 0

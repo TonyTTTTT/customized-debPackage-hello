@@ -1,3 +1,9 @@
+hello (2.10+3tony3) focal; urgency=low
+
+  * correct typo in postinst and testing.sh
+
+ -- tonyttttt <r09922176@csie.ntu.edu.tw>  Sat, 29 Jun 2024 19:13:41 +0800
+
 hello (2.10+3tony2) focal; urgency=low
 
   * fix wrong header in postinst and testing.sh
